@@ -4,6 +4,7 @@ A fun 2-D game that replaces numbers with lecturer's profile photos from ECSE de
 The code was written in December 2019 as a Christmas fun game. In case I lost the source code in the PC, I decided to upload it to Github for better storage.
 
 Platform: JetBrians PyCharm Community Edition 2019.2.3
+
 How to run: 
   1. Unzip images.zip, and put all files (along with the unzipped folder of images) in one folder. Use Pycharm to open the 2048_ECSE_version.py file and run.
   2. On windows system only, unzip the 2048_ECSE_version.zip, run the .exe file inside and play.
