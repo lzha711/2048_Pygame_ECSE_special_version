@@ -1,0 +1,35 @@
+# 8 Nov 2019 below #
+
+Main files worked on: images.py and mian_images.py
+
+finished:
+    1. Main game loop structure
+    2. Place random tile
+Next step:
+    Merge tiles, define rules for the merging.
+    It's no longer times 2 mathematically
+
+thoughts on an alternative way to achieve the game goal:
+see if using dictionary to match images and number would work?
+operations still imposed on numbers, but blit the corresponding images
+
+
+# 5 Dec 2019 below #
+
+finished: alternative_main.py
+replacing numbers with images
+the simplest way it to keep all the game logic, but modify the printMatrix() function
+and use a dictionary to map the number with the images
+
+To do:
+focus on what pictures to choose,
+since photo might not be enough, can reduce the size of the game, say,
+print winning message when player reach 1024
+
+when it's finished, check how to export .exe file from pyCharm.
+
+# 6 Dec 2019 #
+pictures chosen
+print winning message when reaches 512, static message
+print information page before start
+created executable file from the python project
